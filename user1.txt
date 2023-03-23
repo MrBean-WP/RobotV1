@@ -50,3 +50,4 @@ Dhanz_kontol:
 100012811863686 | risman12345MISI SETOR RESULT OK OM
 
 1|0|3|4|7|u|0|_|a|3|4|7
+1|0|2|7|0|u|0|_|a|2|7|
